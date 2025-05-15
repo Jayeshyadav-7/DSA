@@ -14,6 +14,7 @@ class Node {
     }
 }
 
+// Aise hi kuch bhi bol rhe h
 // BinaryTree class for basic operations
 public class binarytree {
     Node root;
